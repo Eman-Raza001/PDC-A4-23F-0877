@@ -3,3 +3,7 @@ __pycache__/
 *.o
 *.exe
 .venv/
+mpi/q1/p1a_chain
+mpi/q1/p1b_ring_blocking
+mpi/q1/p1b_ring_nonblocking
+mpi/q1/p1c_alltoall
