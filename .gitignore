@@ -7,3 +7,6 @@ mpi/q1/p1a_chain
 mpi/q1/p1b_ring_blocking
 mpi/q1/p1b_ring_nonblocking
 mpi/q1/p1c_alltoall
+mpi/q2/p2a_sum
+mpi/q2/p2b_primes
+mpi/q2/p2c_matvec
